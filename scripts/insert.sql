@@ -1,0 +1,5 @@
+INSERT INTO students (full_name, age)
+ VALUES ('berale', 23)
+ VALUES ('pini', 27)
+ VALUES ('tsvi', 22)
+ VALUES ('yechieal', 23)
